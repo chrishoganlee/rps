@@ -1,3 +1,10 @@
+"""
+This is a simple game of Rock, Paper, Scissors.  The code is sourced from
+https://realpython.com/python-rock-paper-scissors/#what-is-rock-paper-scissors
+Modifications have been made to the original; I am not responsible for any errors or vulnerabilities
+caused on your system by the modifications.
+"""
+
 import random
 
 user_action = input("Enter a choice (rock, paper, scissors): ")
